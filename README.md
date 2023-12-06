@@ -20,6 +20,7 @@ Make sure you have Python 3.x installed along with necessary libraries mentioned
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -45,7 +46,7 @@ The repository contains implementations of various regression models:
 
 ## Contributing
 
-If you'd like to contribute to this project, follow these steps:
+If you would like to contribute to this project, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
