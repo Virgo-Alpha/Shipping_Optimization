@@ -14,6 +14,10 @@ This project aims to predict shipping times for different shipments using regres
 
 ## Getting Started
 
+### Video Demo
+
+
+
 ### Prerequisites
 
 Make sure you have Python 3.x installed along with necessary libraries mentioned in `requirements.txt`.
@@ -60,9 +64,10 @@ If you encounter any problems or have suggestions, feel free to raise an issue o
 
 ## Resources
 
-- [Video Demo](link-to-video-demo)
-- [Project Presentation PDF](link-to-pdf-presentation)
-- [GitHub Gist](link-to-github-gist)
+- [Video Demo](https://drive.google.com/file/d/1dInjebLlqU7V34lJEmxeTyX9VxAbEl8b/view?usp=sharing)
+- [Data Exploratory Analysis PDF](https://drive.google.com/file/d/1I7Vy133dSJdWDR-kfZyliaJ8PYsqcpVa/view?usp=sharing)
+- [Project Presentation on Canva](https://www.canva.com/design/DAF2RYnQJFo/GSvrpeeKyGQNx2EQVkn-LQ/edit?utm_content=DAF2RYnQJFo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [GitHub Gist](https://gist.github.com/Virgo-Alpha/ba83255854bef25c8b945e8568a6a63f)
 
 ## License
 
