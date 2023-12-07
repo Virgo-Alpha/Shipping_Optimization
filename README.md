@@ -17,7 +17,7 @@ This project aims to predict shipping times for different shipments using regres
 ### Video Demo
 
 
-Uploading Mugure_Benson_s2038770_Big_Data_CW2.mp4…
+https://github.com/Virgo-Alpha/Shipping_Optimization/assets/79147634/7d12be45-f2f2-4744-b483-bf0e54d775ec
 
 
 ### Prerequisites
